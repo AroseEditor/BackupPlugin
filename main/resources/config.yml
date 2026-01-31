@@ -1,0 +1,20 @@
+backup:
+  interval-seconds: 3600
+  warning-seconds: 3
+  path: "C:/MinecraftBackups"
+
+cleanup:
+  max-backups: 10
+  max-age-days: 7
+
+discord:
+  enabled: false
+  webhook-url: "PUT_WEBHOOK_HERE"
+
+worlds:
+  world:
+    enabled: true
+  world_nether:
+    enabled: true
+  world_the_end:
+    enabled: true

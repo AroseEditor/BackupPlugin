@@ -1,0 +1,14 @@
+name: BackupPlugin
+version: 1.0.0
+main: me.arose.backupplugin.BackupPlugin
+api-version: 1.21
+author: Arose
+
+commands:
+  backup:
+    description: Backup commands
+    usage: /backup <now|reload>
+
+permissions:
+  backup.admin:
+    default: op

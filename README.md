@@ -4,6 +4,8 @@
 
 Designed for stability, safety, and ease of use.
 
+Paper only 1.21 plugin!
+
 ---
 
 ## ✨ Features
